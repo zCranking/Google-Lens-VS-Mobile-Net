@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+#header1{
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+    color: red;
+}
+#image1{
+    width: 80px; 
+    height: 80px;
+}
+.div1{
+    background-color: #17255A;
+    width: 80%;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px black;
+}
+.header2{
+    position: inline-block;
+    font-size: 60px;
+    color: white;
+    margin-right: 24em;
+    margin-bottom: -1em;
+}
+.header3{
+    position: inline-block;
+    font-size: 70px;
+    color: white;
+}
+.image2{
+    width: 70em;
+    height: 70em;
+    border-radius: 10em;
+}
+.div2{
+    background-color: white;
+    border-radius: 20px;
+    width: 30%;
+    color: orange;
+    font-weight: bold;
+    font-family: 'Staatliches', cursive;
+    height: 3em;
+}
+.GoogleLens1{
+    font-size: 3em;
+}
+.div3{
+    background-color: white;
+    border-radius: 20px;
+    width: 30%;
+    color: #54428E;
+    font-weight: bold;
+    font-family: 'Staatliches', cursive;
+    height: 3em;
+}
+.MobileNet1{
+    font-size: 3em;
+}
+.p1{
+    background-color: white;
+    border-radius: 20px;
+    width: 20%;
+    color: #22577A;
+    font-weight: bold;
+    font-family: 'Staatliches', cursive;
+    height: 1.5em;
+    font-size: 2.5em;
+    margin-top: 20px;
+}
+.copyright_footer{
+    position: fixed;
+    color: rgb(218, 252, 224);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(115, 130, 118);
+    line-height: 3;
+    text-align: center;
+}
